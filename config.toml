@@ -17,7 +17,6 @@ theme = "hello-friend-ng"
   contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
-disableKinds = ["RSS"]
 
 # Social icons
   [[params.social]]

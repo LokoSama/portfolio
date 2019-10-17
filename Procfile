@@ -1,1 +1,1 @@
-web: hugo server
+web: hugo
