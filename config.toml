@@ -21,7 +21,7 @@ theme = "hello-friend-ng"
 # Social icons
   [[params.social]]
     name = "email"
-    url  = "mailto:jeremy.basso.31@gmail.com"
+    url  = "mailto:pro@jeremybasso.dev"
 
   [[params.social]]
     name = "github"
@@ -30,6 +30,11 @@ theme = "hello-friend-ng"
   [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/bassojeremy/"
+
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://www.twitter.com/JBassoDev/"
 
   [languages]
   [languages.en]
@@ -40,7 +45,7 @@ theme = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Jérémy Basso"
+      logoText = "cd /profile/Jeremy_Basso"
       logoHomeLink = "/"
       logoColor = "#12CBF0"
 
