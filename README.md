@@ -2,6 +2,6 @@
 
 This Hugo website is based on a template by rhazdon.
 
-## Quicktsart
+## Quickstart
 
 `hugo server`
