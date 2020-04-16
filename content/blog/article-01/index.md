@@ -1,7 +1,7 @@
 +++
 title = "Why you should build a starter project to enjoy your side-projects"
 description = ""
-featured = "kermit-tea.jpg"
+featured = "/kermit-tea.jpg"
 
 type = ["blog","post"]
 tags = [
@@ -18,10 +18,7 @@ categories = [
   name = "Jérémy Basso"
 +++
 
-<p align="center">
-<img src="/kermit-tea.jpg" alt="pick" style="width:400px" display="none"/>
-<legend>Accurate picture of me and my T.E.A.</legend>
-</p>
+<img src="/kermit-tea.jpg" alt="pick" style="width:400px;display:none"/>
 
 ## Background story
 
