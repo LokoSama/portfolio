@@ -1,6 +1,8 @@
 +++
 title = "Why you should build a starter project to enjoy your side-projects"
 description = ""
+featured = "kermit-tea.jpg"
+
 type = ["blog","post"]
 tags = [
     "starter",
@@ -20,7 +22,7 @@ categories = [
 
 When you are working as a developer for a company, and you want to keep working on side-projects at the same time, you will probably struggle finding a well-known and desirable resource : **time**.  Directly linked to **time**, another important resource is **energy**. It is necessary, in my opinion, to save free **time** for non work-related tasks, in order to relax and maintain enough **energy**. Finally, the third resource is **attention**, when a big task is ahead of you, it gets harder to maintain focus.
 
-I mentioned **time**, **energy** and **attention** for a reason : they are often quoted as the components of the TEA framework. The idea behind TEA is that if you lack of any of the 3 resources, you will never be able to achieve optimal productivity. In the case of side-projects, I think of "productivity" not as the amount of code you can deliver, but as the good balance that will provide pride, fulfillment and blooming from working on your side-projects.
+I mentioned **time**, **energy** and **attention** for a reason : those are often quoted as the components of the TEA framework. The idea behind TEA is that if you lack any of the 3 resources, you will never be able to achieve optimal productivity. In the case of side-projects, I think of "productivity" not as the amount of code you can deliver, but as the good balance that will provide pride, fulfillment and blooming from working on your side-projects.
 
 <p align="center">
 <img src="/TEA-diagram.png" alt="TEA" style="width:600px"/>
