@@ -36,6 +36,10 @@ theme = "hello-friend-ng"
     name = "twitter"
     url  = "https://www.twitter.com/JBassoDev/"
 
+  [[params.social]]
+    name = "medium"
+    url  = "https://www.medium.com/@jeremy.basso"
+
   [languages]
   [languages.en]
     title = "Jérémy Basso"
@@ -45,7 +49,7 @@ theme = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "cd /profile/Jeremy_Basso"
+      logoText = "cd /Jeremy_Basso/home"
       logoHomeLink = "/"
       logoColor = "#12CBF0"
 
