@@ -1,5 +1,5 @@
 +++
-title = "Why you should build a starter project to optimize your side-projects"
+title = "Why you should build a starter project to enjoy your side-projects"
 description = ""
 type = ["blog","post"]
 tags = [
