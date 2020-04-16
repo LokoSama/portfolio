@@ -18,6 +18,11 @@ categories = [
   name = "Jérémy Basso"
 +++
 
+<p align="center">
+<img src="/kermit-tea.jpg" alt="pick" style="width:400px" display="none"/>
+<legend>Accurate picture of me and my T.E.A.</legend>
+</p>
+
 ## Background story
 
 When you are working as a developer for a company, and you want to keep working on side-projects at the same time, you will probably struggle finding a well-known and desirable resource : **time**.  Directly linked to **time**, another important resource is **energy**. It is necessary, in my opinion, to save free **time** for non work-related tasks, in order to relax and maintain enough **energy**. Finally, the third resource is **attention**, when a big task is ahead of you, it gets harder to maintain focus.
