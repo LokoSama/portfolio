@@ -65,7 +65,7 @@ First of all, try to find out what are the features your starter should have. Pi
 *Example for backend starter : authentication email/password, database connection, account management, admin routes*
 
 ### Architecture
-Once you decided your functional scope, you **should** spend some time on your architecture. Thats the point of having a starter project : you need a good architecture, that **you** like, and that **you** feel confortable with. Thats an opportunity for you to try something new, this starter is designed by **you** and for **you**, so feel free to try new things, as long as you can handle it.
+Once you decided your functional scope, you **should** spend some time on your architecture. That's the point of having a starter project : you need a good architecture, that **you** like, and that **you** feel confortable with. That's an opportunity for you to try something new, this starter is designed by **you** and for **you**, so feel free to try new things, as long as you can handle it.
 My tip for architecture is to use a whiteboard to visualize what you want to do, it will help you iterate over your architecture and spot potential issues.
 
 *Example for backend starter: hexagonal architecture*
