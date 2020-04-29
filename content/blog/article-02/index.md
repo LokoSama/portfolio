@@ -82,7 +82,7 @@ Now it is time to inject those providers, and it is definitely the cool part. Wh
 class LoginService() {
 
 @Autowired
-lateinir var loginProviders: List<ILoginProvider>
+lateinit var loginProviders: List<ILoginProvider>
 
 }
 ```
@@ -92,7 +92,7 @@ The last thing to do is to make good use of this list of providers, by correctly
 class LoginService() {
 
 @Autowired
-lateinir var loginProviders: List<ILoginProvider>
+lateinit var loginProviders: List<ILoginProvider>
 
 fun login(request: AuthRequest): Account {
 	val provider = loginProviders.firstOrNull{it.supports(request)} 
