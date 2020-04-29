@@ -59,7 +59,7 @@ data class AuthRequest(
 This interface will be implemented by a new class for each source. For our example we will create **EmailLoginProvider** and **FacebookLoginProvider** (example below), that will both implement **ILoginProvider**.
 ```kotlin
 @Service  
-class FacebookLoginProvider() : IPaymentProcessingProvider {
+class FacebookLoginProvider() : ILoginProvider {
 
 override fun login(request: AuthRequest): Account {
 	// TODO : implement login function
